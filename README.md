@@ -46,7 +46,7 @@
 
 | Repo | Focus |
 |---|---|
-| 🛡️ [AndroidSecAnalyzer](https://github.com/Damlayuksel/AndroidSecAnalyzer) | Android App Security Analysis — OWASP Mobile Top 10 |
+| 🛡️ [AndroidSecAnalyzer](https://github.com/Damlayuksel/AndroidSecAnalyzer) | Android App Security Analysis - OWASP Mobile Top 10 |
 | 🎣 [Phishing-Simulator](https://github.com/Damlayuksel/Phishing-Simulator) | Simulated phishing campaigns for security awareness training |
 | 🕵️ [phishing-email-detection](https://github.com/Damlayuksel/phishing-email-detection) | ML-based phishing email detection |
 
