@@ -23,7 +23,7 @@
 
 ---
 
-### 🧰 Arsenal — Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,c,html,css,js,mysql,linux,git,bash" />
@@ -42,7 +42,7 @@
 
 ---
 
-### 🎯 Featured Projects
+###  Featured Projects
 
 | Repo | Focus |
 |---|---|
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Damlayuksel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41&count_private=true" />
