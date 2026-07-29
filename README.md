@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Damla Yüksel 👋</h1>
 
-<h3 align="center">🛡️ Offensive Security Engineer | Red Teamer | Ethical Hacker ⚔️</h3>
+<h3 align="center"> Software Engineer | Offensive Security | Ethical Hacker ⚔️</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Breaking+things+so+they+can't+be+broken;Red+Team+%7C+Offensive+Security;Android+%26+Web+Application+Security;Always+scanning...+always+learning" alt="Typing SVG" />
